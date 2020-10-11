@@ -1,1 +1,1 @@
-# ass7
+Assignment 7 is calculations within vectors
